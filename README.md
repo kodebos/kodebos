@@ -14,14 +14,7 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-🎓 **Computer Engineering Student**  
-🔐 **Passionate about Development and Learning New Code**  
-💡 **Focused on:**  
-   - Learning and discovering new technological skills  
-   - Software and application development  
-   - Tech accessibility and digital rights  
-
-> *"Technologie und Menschen vereinen."*
+🎓 **Computer Engineering Student**
 
 ---
 
