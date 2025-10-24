@@ -26,3 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kodebos&show_icons=true&theme=chartreuse-dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodebos&layout=compact&theme=chartreuse-dark" />
 </p>
+
+<h3 aling="center"> Streak Stats </h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kodebos&theme=chartreuse-dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kodebos&theme=chartreuse-dark" alt="GitHub Streak" /></a>
